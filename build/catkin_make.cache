@@ -1,0 +1,2 @@
+frame_slider:tf_homework
+-DCATKIN_DEVEL_PREFIX=/u/sarthakd/tf_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/u/sarthakd/tf_catkin_ws/install -G Unix Makefiles

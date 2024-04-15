@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /u/sarthakd/tf_catkin_ws/devel/setup.sh

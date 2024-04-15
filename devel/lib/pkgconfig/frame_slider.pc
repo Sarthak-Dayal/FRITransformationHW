@@ -1,0 +1,8 @@
+prefix=/u/sarthakd/tf_catkin_ws/devel
+
+Name: frame_slider
+Description: Description of frame_slider
+Version: 0.0.0
+Cflags: -I/u/sarthakd/tf_catkin_ws/src/frame_slider/include
+Libs: -L${prefix}/lib 
+Requires: 
